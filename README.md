@@ -8,7 +8,8 @@
 </p>
 
 ## tata cara ##
-- install composer , npm install dan npm run dev
+- install composer 
+- buat database terlebih dahulu dan jalankan npm install && run dev
 
 
 ## About Laravel
